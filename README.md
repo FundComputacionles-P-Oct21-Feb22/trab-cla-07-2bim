@@ -1,4 +1,5 @@
-# trab-cla-07-2bim
+# Trabajo clases 07
+## Segundo bimestre
 
 ## Áreas de las Ciencias de la Computación
 
